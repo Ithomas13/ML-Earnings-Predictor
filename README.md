@@ -1,8 +1,5 @@
 # 📊 Trading Insights Algorithm
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Trading_Insights_Algorithm.ipynb)
-[![nbviewer](https://img.shields.io/badge/view%20on-nbviewer-blue)](https://nbviewer.org/github/<your-username>/<your-repo>/blob/main/Trading_Insights_Algorithm.ipynb)
-
 ## 🚀 Overview
 This project is a **machine learning and data analysis notebook** designed to identify profitable trading opportunities during high-volatility events, particularly **earnings announcements**.  
 
@@ -24,7 +21,6 @@ Clone the repo and install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Or open instantly with **Google Colab** using the badge above (no setup needed).
 
 ---
 
